@@ -1,2 +1,2 @@
 # PRODIGY_DS_03
-Builded a decision tree classifier to predict whether a customer will purchase a product or service based on their demographic and behavioral data of Bank Marketing dataset
+Build a decision tree classifier to predict whether a customer will purchase a product or service based on their demographic and behavioral data of Bank Marketing dataset
